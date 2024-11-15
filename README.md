@@ -60,6 +60,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3><strong>Resolving Tickets</strong></h3>
+<ul><li>Open the ticket and ensure the issue is resolved.</li><li>Click <strong>Close Ticket</strong> and optionally add a resolution note.</li><li>The client is notified (if notifications are enabled).</li></ul>
 </p>
 <br />
