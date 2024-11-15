@@ -48,7 +48,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3><strong>Working on Tickets</strong></h3>
+<ul><li><strong>View Tickets</strong>: Use filters or search in the <strong>Tickets</strong> tab.</li><li><strong>Assign Tickets</strong>:<ul><li>Assign to yourself, another agent, or a team.</li></ul></li><li><strong>Respond to Tickets</strong>:<ul><li>Open the ticket and click <strong>Post Reply</strong> to send a response to the client.</li></ul></li><li><strong>Add Internal Notes</strong>:<ul><li>Use <strong>Post Internal Note</strong> for staff-only comments.</li></ul></li><li><strong>Change Ticket Status</strong>:<ul><li>Update status (e.g., Open, On Hold, or Resolved).</li></ul></li></ul>
 </p>
 <br />
 
