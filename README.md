@@ -36,7 +36,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<h3><strong>Creating Tickets</strong></h3>
+<ul><li><strong>Clients (End-Users):</strong><ul><li>Submit via <strong>Web Portal</strong> by filling out a form with their issue details.</li><li>Submit via <strong>Email</strong>, and the system converts it into a ticket (if email fetching is enabled).</li></ul></li><li><strong>Agents (Staff Members):</strong><ul><li>Log in to the Staff Panel and go to <strong>Tickets &gt; Create New Ticket</strong>.</li><li>Fill out the form on behalf of the client.</li></ul></li></ul>
 </p>
 <br />
 
